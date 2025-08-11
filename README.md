@@ -2,7 +2,7 @@
 
 # Bootcamp Santander 2025 Back-End com Java
 
-## JAVA EXERCÍCIOS / DESAFIOS
+## EXERCÍCIOS / DESAFIOS
 
 ## 1- Controle fluxo - Desafio
 
@@ -47,6 +47,9 @@ public class Contador {
 	}
 }
 
+## => Resposta em respostas.md, item 1
+## => Pasta do exercício: Controle-fluxo/
+
 -----------------------
 
 ## 2- POO - Desafio: Modelagem e Diagramação de um Componente iPhone
@@ -87,6 +90,9 @@ Exemplo de Diagrama UML (Mermaid)
 - Submeta seu repositório GitHub conforme as orientações da plataforma DIO. Por exemplo:
 https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
 
+## => Resposta em respostas.md, item 2
+## => Pasta do exercício: Poo-Iphone
+
 ----------------------------
 
 ## 3- Sintaxe-ContaBanco
@@ -100,7 +106,10 @@ https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
 
 Dentro do projeto crie a class *contaTerminal.java*, para realizar toda a codificação do programa.
 
-Resultados em: Respostas.md
+## => Resposta em respostas.md, item 3
+## => Pasta do exercício: Sintaxe-ContaBanco
+
+__________________________________________________
 
 <img src="https://solmorcillo.com.br/imgs_public/logo_SM.jpg" width="100px" height="130px">
 
