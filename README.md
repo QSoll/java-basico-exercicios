@@ -1,7 +1,14 @@
 <img src="Sintaxe-ContaBanco/img-javaBank.jpg">
 
+<<<<<<< HEAD
 # Bootcamp Santander 2025 Back-End com Java
 
+=======
+<img src="Sintaxe-ContaBanco/img-javaBank.jpg">
+
+# Bootcamp Santander 2025 Back-End com Java
+
+>>>>>>> b0b75cc98e4a0a09921850c52c0bdecd97a0ca06
 ## JAVA EXERCÍCIOS / DESAFIOS
 
 ## 1- Controle fluxo - Desafio
@@ -103,6 +110,13 @@ Dentro do projeto crie a class *contaTerminal.java*, para realizar toda a codifi
 Resultados em: Respostas.md
 
 <img src="https://solmorcillo.com.br/imgs_public/logo_SM.jpg" width="100px" height="120px">
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> b0b75cc98e4a0a09921850c52c0bdecd97a0ca06
 
 
 
