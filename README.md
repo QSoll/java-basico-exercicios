@@ -109,7 +109,7 @@ Dentro do projeto crie a class *contaTerminal.java*, para realizar toda a codifi
 
 Resultados em: Respostas.md
 
-<img src="https://solmorcillo.com.br/imgs_public/logo_SM.jpg" width="100px" height="120px">
+<img src="https://solmorcillo.com.br/imgs_public/logo_SM.jpg" width="100px" height="130px">
 <<<<<<< HEAD
 =======
 
