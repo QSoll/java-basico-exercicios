@@ -81,4 +81,4 @@ Pasta: Sintaxe-ContaBanco / ContaTerminal.java
 
 ----------------------------
 
-<img src="https://solmorcillo.com.br/imgs-public/logo_SM.png" width="100px" height="100px">
+<img src="https://solmorcillo.com.br/imgs-public/logo_SM.png" width="100px" height="130px">
